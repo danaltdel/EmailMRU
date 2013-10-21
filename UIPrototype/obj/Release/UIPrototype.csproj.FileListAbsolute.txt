@@ -1,0 +1,13 @@
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\bin\Release\UIPrototype.exe.config
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\bin\Release\UIPrototype.exe
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\bin\Release\UIPrototype.pdb
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\UIPrototype.csprojResolveAssemblyReference.cache
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\MainWindow.baml
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\MainWindow.g.cs
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\App.g.cs
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\UIPrototype_MarkupCompile.cache
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\UIPrototype.g.resources
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\UIPrototype.Properties.Resources.resources
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\UIPrototype.csproj.GenerateResource.Cache
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\UIPrototype.exe
+C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\UIPrototype\obj\Release\UIPrototype.pdb
