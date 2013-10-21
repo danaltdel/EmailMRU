@@ -17,3 +17,22 @@ C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\EmailMRU\
 C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\EmailMRU\obj\Debug\EmailMRU.pdb
 C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\EmailMRU\obj\Debug\EmailMRU.csprojResolveAssemblyReference.cache
 C:\Users\user\SkyDrive\VSProjects\Visual Studio 2012\Projects\EmailMRU\EmailMRU\bin\Debug\Images\paperclip.png
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\Images\paperclip.png
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\EmailMRU.dll
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\EmailMRU.pdb
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\EmailMRU.dll.manifest
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\EmailMRU.vsto
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\EmailMRU.csprojResolveAssemblyReference.cache
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\Controls\MailListControl.baml
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\Controls\MailListControl.g.cs
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\EmailMRU_MarkupCompile.cache
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\EmailMRU.g.resources
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\EmailMRU.Properties.Resources.resources
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\EmailMRU.ElementHostContainer.resources
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\EmailMRU.csproj.GenerateResource.Cache
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\EmailMRU.dll
+C:\Users\user\SkyDrive\Condor\Documents\GitHub\EmailMRU\EmailMRU\obj\Debug\EmailMRU.pdb
